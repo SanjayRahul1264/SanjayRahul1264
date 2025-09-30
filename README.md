@@ -34,36 +34,29 @@
 ## 📌 Featured Projects  
 
 ### 🔎 Data Analytics  
-- **Project 1** – (Bank Loan Report using SQL & PowerBI)  
-- **Project 2** – (HR Analysis using Power-BI)  
-- **Project 3** – (Music Trends Recommendations using PowerBI )  
+- **Project 1** – Bank Loan Report using SQL & PowerBI
+- **Project 2** – HR Analysis using Power-BI
+- **Project 3** – Music Trends Recommendations using PowerBI 
 
 ### 🤖 Machine Learning  
-- **Project 1** – (Dynamic Traffic Management System using Iot and Machine Learning Techniques)  
-
+- **Project 1** – Dynamic Traffic Management System using Iot and Machine Learning Techniques
+- **Project 2** – Stock Market Prediction
+- **Project 3** – Spam mail Prediction
+- **Project 4** – Drug Prediction
+  
 ### ⚛️ React  
-- (Type manually your React projects here)  
+- **Project 1** – Food Ordering App   
 
 ### 🐍 Python  
-- (Type manually your Python projects here)  
+- **Project 1** – Website Traffic Analysis   
 
 ---
 
-## 📊 GitHub Stats & Activity  
-
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=highcontrast)  
-
----
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanjayrahul1264)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayofficial1264@gmail.com)  
 
 ---
 

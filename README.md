@@ -34,12 +34,12 @@
 ## 📌 Featured Projects  
 
 ### 🔎 Data Analytics  
-- **Project A** – (Describe shortly here)  
-- **Project B** – (Describe shortly here)  
-- **Project C** – (Describe shortly here)  
+- **Project 1** – (Bank Loan Report using SQL & PowerBI)  
+- **Project 2** – (HR Analysis using Power-BI)  
+- **Project 3** – (Music Trends Recommendations using PowerBI )  
 
 ### 🤖 Machine Learning  
-- (Type manually your ML projects here)  
+- **Project 1** – (Dynamic Traffic Management System using Iot and Machine Learning Techniques)  
 
 ### ⚛️ React  
 - (Type manually your React projects here)  
